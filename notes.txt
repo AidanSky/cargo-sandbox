@@ -1,0 +1,8 @@
+change ints to have actual dates
+
+run multiple tests 
+    probability at given int function
+
+
+how to delete crates that are installed with cargo.toml
+    something about cargo clear?
